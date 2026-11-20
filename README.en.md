@@ -1,34 +1,106 @@
-# NoYouPub 3.0 — beta
+<div align="center">
 
-[Français](README.md)
+<img src="assets/hero.svg" alt="NoYouPub — YouTube on your TV, without standard ads" width="100%" />
 
-![NoYouPub — YouTube on your TV](assets/hero.svg)
+<br />
 
-NoYouPub sends a YouTube video from a Mac to a compatible TV's video player. The native macOS app and Chrome extension control the same local engine, **NoYouPub Core**. The extension still needs this engine when the app window is closed.
+**Your YouTube. Your TV. Your rules.**
 
-**Status: standalone beta candidate for Apple Silicon.** The local engine is bundled and targets macOS 14.0. Playback and controls were tested on macOS 14.3 with an LG webOS UP7750PTB. A clean Mac installation remains unverified. Gatekeeper can reject the ad hoc signature.
+Choose a video on your Mac. Send it to your TV. Stay in control from your computer.
 
-## Product capabilities
+<br />
 
-- Google Cast and DLNA discovery, TV selection, manual local-IP addition and diagnostics.
-- **Fast** mode plays while downloading where supported. **Compatible** mode prepares a complete MP4 before playback. Startup time depends on available formats, connection and receiver.
-- Pause, resume, stop, playback position, timeline seeking and sound controls where supported by the TV.
-- Speeds 0.75×, 1×, 1.25×, 1.5×, 1.75× and 2×. On LG/DLNA the Mac adapts the stream through FFmpeg; a speed change can reload the TV player. Command support varies by receiver.
-- Chrome queue: add from a video page or suggestions, remove, clear, next, previous and resume last playback. Chrome manages the queue and must remain open for automatic advancement.
-- Independent navigation: watch another video on the Mac while the TV keeps playing; explicitly replace the TV video or add to the queue. Replies for a previous page are discarded.
-- Preparation progress, cancellation, playback state synchronization and diagnostics.
-- French and English, system detection and explicit language selection without reinstalling. Chrome can follow the app or retain its own preference; language selection works even without the bridge.
+[![Website](https://img.shields.io/badge/Website-noyoupub.com-8B5CF6?style=for-the-badge)](https://noyoupub.com)
+[![Download](https://img.shields.io/badge/Download-macOS_Beta-181424?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Delavatitude/NoYouPub/releases)
+[![Help](https://img.shields.io/badge/Help-installation_guide-3F345C?style=for-the-badge)](https://noyoupub.com/en/help)
 
-## How it works
+[Français](README.md) · **English**
 
-The SwiftUI app invokes the Python Core. Chrome starts the same Core through origin-restricted Native Messaging. The engine discovers the receiver, prepares available media and serves a temporary, token-protected stream on the local network. The TV plays that media in its own player, rather than requiring the YouTube TV application.
+</div>
 
-Keep the Mac awake, online and able to reach the TV. No TV software is installed. This is not a Google or LG product. Extraction methods and media formats may change; not every video is guaranteed to work. Ad-free playback is not permission to access or use content.
+---
 
-## Installation and availability
+## ▶ Watch videos. Not ads.
 
-- [Beta installation guide (French and English)](docs/BETA-INSTALLATION.md)
-- [Project website](https://noyoupub.com)
-- [GitHub Releases](https://github.com/Delavatitude/NoYouPub/releases)
+NoYouPub streams YouTube videos to a compatible TV **using the TV's video player instead of its YouTube app**. Find a video on your Mac, send it to the big screen, and control playback from your computer.
 
-This repository contains the project overview and installation guide. Source code and the DMG are pending distribution clearance.
+This playback approach avoids typical YouTube app ads. Sponsor segments **embedded in the video itself** are not removed.
+
+<table><tr>
+<td width="33%" align="center"><h3>📺 Big screen</h3>Play YouTube videos on your TV from your Mac.</td>
+<td width="33%" align="center"><h3>⚡ One click</h3>Send videos directly from Chrome.</td>
+<td width="33%" align="center"><h3>🎛️ Stay in control</h3>Pause, resume, seek and adjust playback speed.</td>
+</tr></table>
+
+## ✨ How it works
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="30%"><strong>▶️ YouTube</strong><br/><sub>Pick a video in Chrome</sub></td>
+<td align="center" width="5%">➜</td>
+<td align="center" width="30%"><strong>💜 NoYouPub</strong><br/><sub>One click to start streaming</sub></td>
+<td align="center" width="5%">➜</td>
+<td align="center" width="30%"><strong>📺 Your TV</strong><br/><sub>Big screen, controls on your Mac</sub></td>
+</tr>
+</table>
+</div>
+
+NoYouPub includes a native macOS application, an optional Chrome extension, and a local streaming engine. **Your Mac must remain powered on, awake, and connected during playback.**
+
+## ⬇️ Get NoYouPub
+
+> [!IMPORTANT]
+> **Apple Silicon beta.** This initial build is **not signed with an Apple Developer ID and is not notarized**. macOS may block the first launch and require manual approval. Download only from the official releases page and verify the source.
+
+1. Visit **[GitHub Releases](https://github.com/Delavatitude/NoYouPub/releases)**.
+2. Download `NoYouPub-3.0.0-beta-arm64.dmg` once published.
+3. Open the DMG and follow the installation instructions.
+4. Connect your Mac and TV to the **same local network**, then launch NoYouPub.
+5. Paste a YouTube video URL, select your TV, and start playback.
+
+If macOS blocks the unnotarized app, see [Apple's official guidance](https://support.apple.com/guide/mac-help/mh40616/mac). **Do not disable Gatekeeper globally.**
+
+The Chrome extension enables one-click casting directly from YouTube. See the [help center](https://noyoupub.com/en/help) for setup and availability information.
+
+## 📽️ Demo
+
+<div align="center">
+
+**Find a video → click NoYouPub → watch on TV → control from Mac**
+
+[**See NoYouPub in action**](https://noyoupub.com)
+
+</div>
+
+## 🖥️ Compatibility and limitations
+
+| | Beta status |
+|---|---|
+| **Mac** | Apple Silicon (`arm64`); targets macOS 14.0, locally tested on macOS 14.3 |
+| **TVs** | LG/DLNA and Google Cast discovery implemented; playback, pause, resume, seek, speed and stop tested on LG webOS UP7750PTB |
+| **Browser** | Chrome with a locally installed extension (release setup instructions pending) |
+| **Playback** | Fast and Compatible modes; available quality depends on the video |
+| **Network** | Mac and TV on the same network; keep Mac awake |
+
+Some protected or restricted videos may fail. Playback behavior and performance vary by receiver.
+
+## 🧩 For developers
+
+This repository contains the project overview and [installation guide](docs/BETA-INSTALLATION.md). Source code and the DMG are pending distribution clearance.
+
+The streaming engine runs locally: **no cloud relay server is required**.
+
+## 💜 Why NoYouPub?
+
+Finding videos on a Mac is convenient. Watching them on a big screen is better. NoYouPub brings both together without another complicated interface.
+
+<div align="center">
+
+### Ready for the big screen?
+
+[**Download beta**](https://github.com/Delavatitude/NoYouPub/releases) · [**Website**](https://noyoupub.com) · [**Help**](https://noyoupub.com/en/help)
+
+<sub>Independent project. Not affiliated with YouTube, Google, or LG. Trademarks belong to their respective owners.</sub>
+
+</div>

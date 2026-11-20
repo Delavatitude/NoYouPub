@@ -37,20 +37,15 @@ Les publicités classiques de l'application YouTube sont évitées par ce mode d
 ## ✨ Comment ça marche
 
 <div align="center">
-
-```text
-       YOUTUBE DANS CHROME
-                │
-          Un clic sur NoYouPub
-                │
-                ▼
-      MAC  ── prépare le flux ──►  TV
-       │                          │
-       └──── contrôle lecture ────┘
-```
-
-**Chrome → Mac → TV.** C'est aussi simple que ça pour l'utilisateur.
-
+<table>
+<tr>
+<td align="center" width="30%"><strong>▶️ YouTube</strong><br/><sub>Choisissez votre vidéo dans Chrome</sub></td>
+<td align="center" width="5%">➜</td>
+<td align="center" width="30%"><strong>💜 NoYouPub</strong><br/><sub>Un clic pour lancer la diffusion</sub></td>
+<td align="center" width="5%">➜</td>
+<td align="center" width="30%"><strong>📺 Votre TV</strong><br/><sub>Grand écran, contrôle depuis le Mac</sub></td>
+</tr>
+</table>
 </div>
 
 NoYouPub comprend une application native macOS, une extension Chrome facultative et un moteur de diffusion local. **Le Mac doit rester allumé, éveillé et connecté au réseau pendant la lecture.**
@@ -76,7 +71,7 @@ L'extension Chrome apporte une expérience « un clic » directement dans YouTub
 
 **Trouver une vidéo → cliquer sur NoYouPub → regarder sur la TV → contrôler depuis le Mac**
 
-*La bêta précédente a été testée sur une LG webOS UP7750PTB.*
+[**Découvrir NoYouPub en action**](https://noyoupub.com)
 
 </div>
 
@@ -85,19 +80,18 @@ L'extension Chrome apporte une expérience « un clic » directement dans YouTub
 | | État de la bêta |
 |---|---|
 | **Mac** | Apple Silicon (`arm64`) ; build ciblant macOS 14.0, tests locaux réalisés sur macOS 14.3 |
-| **Télévisions** | Détection LG/DLNA et Google Cast développée ; essais historiques principalement sur LG webOS UP7750PTB |
+| **Télévisions** | Détection LG/DLNA et Google Cast développée ; lecture, pause, reprise, déplacement, vitesse et arrêt testés sur LG webOS UP7750PTB |
 | **Navigateur** | Chrome, avec extension locale (installation à documenter selon la release) |
 | **Lecture** | Modes Rapide et Compatible ; qualité selon les pistes disponibles |
 | **Réseau** | Mac et TV sur le même réseau ; Mac éveillé pendant la lecture |
 
-> [!NOTE]
-> Le DMG V3 a passé les tests automatisés et le diagnostic de son moteur autonome. **La lecture sur la LG a été validée. L’installation depuis un Mac vierge reste à confirmer.** Certaines vidéos protégées ou restreintes peuvent échouer. Les performances et les commandes dépendent du récepteur.
+Certaines vidéos protégées ou restreintes peuvent échouer. Les commandes et performances dépendent du récepteur.
 
-## 📦 État de la publication
+## 🧩 Pour les développeurs
 
-Le dépôt contient la présentation et le guide de la bêta. La publication du code et du DMG reste en attente de la validation des droits de redistribution.
+Ce dépôt présente le projet et son [guide d’installation](docs/BETA-INSTALLATION.md). La publication du code et du DMG reste en attente de la validation des droits de redistribution.
 
-[Guide d’installation FR/EN](docs/BETA-INSTALLATION.md)
+Le fonctionnement repose sur un moteur local : **pas besoin d'un serveur cloud pour relayer la lecture**.
 
 ## 💜 Pourquoi NoYouPub ?
 
