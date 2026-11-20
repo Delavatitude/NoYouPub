@@ -42,19 +42,11 @@ This playback approach avoids typical YouTube app ads. Sponsor segments **embedd
 
 ## ✨ How it works
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="30%"><strong>▶️ YouTube</strong><br/><sub>Pick a video in Chrome</sub></td>
-<td align="center" width="5%">➜</td>
-<td align="center" width="30%"><strong>💜 NoYouPub</strong><br/><sub>One click to start streaming</sub></td>
-<td align="center" width="5%">➜</td>
-<td align="center" width="30%"><strong>📺 Your TV</strong><br/><sub>Big screen, controls on your Mac</sub></td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="assets/how-it-works-en.svg" width="640" alt="You choose a video in the browser. The Mac prepares and streams it. The TV plays the video in its own player." />
+</p>
 
-NoYouPub includes a native macOS application, an optional Chrome extension, and a local streaming engine. **Your Mac must remain powered on, awake, and connected during playback.**
+Your Mac streams the video and controls playback. It must stay awake while watching.
 
 ## ⬇️ Get NoYouPub
 

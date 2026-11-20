@@ -44,19 +44,11 @@ Les publicités classiques de l'application YouTube sont évitées par ce mode d
 
 ## ✨ Comment ça marche
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="30%"><strong>▶️ YouTube</strong><br/><sub>Choisissez votre vidéo dans Chrome</sub></td>
-<td align="center" width="5%">➜</td>
-<td align="center" width="30%"><strong>💜 NoYouPub</strong><br/><sub>Un clic pour lancer la diffusion</sub></td>
-<td align="center" width="5%">➜</td>
-<td align="center" width="30%"><strong>📺 Votre TV</strong><br/><sub>Grand écran, contrôle depuis le Mac</sub></td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="assets/how-it-works-fr.svg" width="640" alt="Dans le navigateur, vous choisissez la vidéo. Le Mac prépare et transmet le flux. La télévision lit la vidéo avec son propre lecteur." />
+</p>
 
-NoYouPub comprend une application native macOS, une extension Chrome facultative et un moteur de diffusion local. **Le Mac doit rester allumé, éveillé et connecté au réseau pendant la lecture.**
+Le Mac transmet la vidéo et pilote la lecture. Il doit rester allumé pendant la diffusion.
 
 ## ⬇️ Installer NoYouPub
 
