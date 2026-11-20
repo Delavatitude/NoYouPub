@@ -1,0 +1,95 @@
+{
+  "status": "Metadata snapshot, not a legal clearance or hash lock",
+  "packages": [
+    {
+      "name": "brotli",
+      "version": "1.2.1",
+      "declared_license": "MIT"
+    },
+    {
+      "name": "casttube",
+      "version": "0.2.1",
+      "declared_license": "MIT"
+    },
+    {
+      "name": "catt",
+      "version": "0.13.3",
+      "declared_license": "BSD"
+    },
+    {
+      "name": "certifi",
+      "version": "2026.10.23",
+      "declared_license": "MPL-2.0"
+    },
+    {
+      "name": "charset-normalizer",
+      "version": "3.5.2",
+      "declared_license": "MIT"
+    },
+    {
+      "name": "click",
+      "version": "8.5.1",
+      "declared_license": "BSD-3-Clause"
+    },
+    {
+      "name": "idna",
+      "version": "3.20",
+      "declared_license": "BSD-3-Clause"
+    },
+    {
+      "name": "ifaddr",
+      "version": "0.2.0",
+      "declared_license": "MIT"
+    },
+    {
+      "name": "mutagen",
+      "version": "1.48.1",
+      "declared_license": "GPL-2.0-or-later"
+    },
+    {
+      "name": "protobuf",
+      "version": "7.36.2",
+      "declared_license": "3-Clause BSD License"
+    },
+    {
+      "name": "PyChromecast",
+      "version": "14.1.1",
+      "declared_license": "MIT"
+    },
+    {
+      "name": "pycryptodomex",
+      "version": "3.24.2",
+      "declared_license": "BSD, Public Domain"
+    },
+    {
+      "name": "requests",
+      "version": "2.34.2",
+      "declared_license": "Apache-2.0"
+    },
+    {
+      "name": "urllib3",
+      "version": "2.8.0",
+      "declared_license": "MIT"
+    },
+    {
+      "name": "websockets",
+      "version": "17.4",
+      "declared_license": "BSD-3-Clause"
+    },
+    {
+      "name": "yt-dlp",
+      "version": "2026.10.26",
+      "declared_license": "Unlicense"
+    },
+    {
+      "name": "yt-dlp-ejs",
+      "version": "0.8.0",
+      "declared_license": "Unlicense AND MIT AND ISC"
+    },
+    {
+      "name": "zeroconf",
+      "version": "0.154.0",
+      "declared_license": "LGPL-2.1-or-later"
+    }
+  ]
+}

@@ -1,0 +1,1184 @@
+{
+  "m5690329b0b32f28b": {
+    "message": "\nKeep your Mac awake during playback."
+  },
+  "meb4152d3590ebd74": {
+    "message": "\nBridge installed and local connection verified."
+  },
+  "me31b7fff0be2e150": {
+    "message": " MB prepared"
+  },
+  "mb24490e8c026b1f1": {
+    "message": " video(s)"
+  },
+  "m0fbadda5d75f79a1": {
+    "message": " · The video on this page stays on your Mac."
+  },
+  "m4f11cd5691c1d8c4": {
+    "message": " elapsed"
+  },
+  "m38348e173d6208d2": {
+    "message": "%.1f MB prepared"
+  },
+  "m7d20925b3b14eed4": {
+    "message": "). Check local network access to the relay."
+  },
+  "m60726947fa9a3d78": {
+    "message": "+ Add to queue"
+  },
+  "mcf2562e965ca9c5b": {
+    "message": ". No files were replaced."
+  },
+  "m39f5e2268efb6fde": {
+    "message": ".installation-id"
+  },
+  "m16e96144d55b6d7a": {
+    "message": ".volume"
+  },
+  "m4f15679bcf765b43": {
+    "message": "1. Open Chrome’s extensions page."
+  },
+  "m9538bebeea0e0366": {
+    "message": "2. Turn on Developer mode, then choose “Load unpacked”."
+  },
+  "ma0c0dcdb53105574": {
+    "message": "3. In the file picker, press ⌘⇧G, paste the path below and confirm."
+  },
+  "m490ebb28f191f0ac": {
+    "message": "4. Reload YouTube, then use the TV button in the player. Choose your TV in its settings."
+  },
+  "me7839104cd818a37": {
+    "message": "Enable the Chrome bridge"
+  },
+  "md7d646faaecb54e8": {
+    "message": "Refresh"
+  },
+  "mf6ebcd05ad43c472": {
+    "message": "Reload YouTube"
+  },
+  "mff4d88151672f5e7": {
+    "message": "Refresh TVs"
+  },
+  "md89211079916bf7c": {
+    "message": "Changing playback speed… The TV will reload the stream."
+  },
+  "mcb3d7e82ada6f018": {
+    "message": "Mac address: "
+  },
+  "m5ad0c8f38bd64f62": {
+    "message": "Could not add this video."
+  },
+  "m4c5cda0cd78ea788": {
+    "message": "Add videos from their YouTube pages. They will play in this order."
+  },
+  "m41837e4ef4212416": {
+    "message": "Add a video"
+  },
+  "mabc8ec90d95828d0": {
+    "message": "Add this video to the Cast queue"
+  },
+  "m48c5888e6eca2938": {
+    "message": "Add the TV button directly to YouTube"
+  },
+  "m486bb1cb26aafbf2": {
+    "message": "Add a TV by IP address"
+  },
+  "m55ffa102232adcbb": {
+    "message": "Add to Cast queue"
+  },
+  "m11ae7f31925b860a": {
+    "message": "Added to the Cast queue: "
+  },
+  "md7c92a8d6561c5c3": {
+    "message": "Added to the Cast queue: {{0}}"
+  },
+  "mde448dc736ce99a7": {
+    "message": "Added to the Cast queue · "
+  },
+  "m9a7b294a08b8b329": {
+    "message": "Turn on your TV and connect it to the same Wi-Fi as this Mac."
+  },
+  "m837864b9638444ce": {
+    "message": "Analyzing the YouTube link and available tracks…"
+  },
+  "maa836015115cf6e7": {
+    "message": "Cancelling preparation…"
+  },
+  "mfc5dfd88649fe672": {
+    "message": "Cancellation requested…"
+  },
+  "m46ad3916f6a09798": {
+    "message": "Cancel"
+  },
+  "mf8f6fb1de58d1359": {
+    "message": "Cancel preparation"
+  },
+  "m3bc7da065f9f1da4": {
+    "message": "Stop casting before changing TVs."
+  },
+  "m596372d5cb62cad9": {
+    "message": "Stop casting to change TVs."
+  },
+  "m5130281b4441b98c": {
+    "message": "Stop"
+  },
+  "m85c20e999d8ca8a2": {
+    "message": "Stop casting"
+  },
+  "mb76ce9762e06f185": {
+    "message": "Stop the core"
+  },
+  "mc1d5d88bf7075e39": {
+    "message": "Stopped"
+  },
+  "m688c419da6a132ae": {
+    "message": "No compatible DLNA or Google Cast receiver was found at this address. Check the address and the TV’s sharing settings."
+  },
+  "m76712f165a6acbd2": {
+    "message": "No Google Cast or DLNA TV detected. Open Connection and settings to run diagnostics."
+  },
+  "m723fb785c230bb11": {
+    "message": "No Google Cast or DLNA TV found. Open network diagnostics for details."
+  },
+  "m924a6387dcdea5d6": {
+    "message": "No TV found"
+  },
+  "m29700c00d1bafb0a": {
+    "message": "No TV found. Check the help below and try again."
+  },
+  "mb314bf25b347484e": {
+    "message": "No TV found. Check the Wi-Fi network."
+  },
+  "m9348f89ee21b94a2": {
+    "message": "No playback to resume."
+  },
+  "m7992068373ac2347": {
+    "message": "No compatible HLS H.264/AAC track is available for this Google Cast receiver."
+  },
+  "m7c5de97899021d34": {
+    "message": "Nothing is being prepared."
+  },
+  "mbc525d85cdb46394": {
+    "message": "No previous video in this Cast session."
+  },
+  "ma00daac934eea22e": {
+    "message": "Need a hand?"
+  },
+  "mccab91e13ed7ef52": {
+    "message": "Casting · open TV controls"
+  },
+  "mc1188ffd8f855701": {
+    "message": "This launcher only accepts YouTube video links."
+  },
+  "m0b4076307eb99715": {
+    "message": "This installer is only available for macOS."
+  },
+  "mdb909cbfbaa94689": {
+    "message": "This TV cannot change playback speed with this player."
+  },
+  "meaadc3e70f5528da": {
+    "message": "This video exceeds the cache limit. Try again at 480p."
+  },
+  "md072c1be1d5e8023": {
+    "message": "Loading the video on your TV…"
+  },
+  "mb81e67f272426750": {
+    "message": "Loading title…"
+  },
+  "m54485883cf179b81": {
+    "message": "Choose a TV"
+  },
+  "m1a02fc38a7f8a09b": {
+    "message": "First choose a TV in the application."
+  },
+  "m83ff0d5d12bbfc41": {
+    "message": "Choose your TV"
+  },
+  "me7bf18fe890e33cb": {
+    "message": "Chromecast added: "
+  },
+  "m32b6d222bb8db7fd": {
+    "message": "Chromecast not found or ambiguous name. Refresh the TV list."
+  },
+  "m8caed96a2e2da13e": {
+    "message": "Click Run diagnostics to check receivers and the Chrome extension."
+  },
+  "m6d3b1309307cafcd": {
+    "message": "Paste a complete YouTube link (https://...)."
+  },
+  "m39f83c75c57ae4ce": {
+    "message": "Paste"
+  },
+  "me227e2ff615b4b12": {
+    "message": "Command completed."
+  },
+  "m93914e47d9411235": {
+    "message": "A command is running. Try again in a moment."
+  },
+  "mb8d3ed3e9211873d": {
+    "message": "Sending command to TV…"
+  },
+  "ma9882497cc8d5425": {
+    "message": "Command not allowed"
+  },
+  "m77f8d181422aceed": {
+    "message": "Command not allowed."
+  },
+  "mc88af1b831c464a8": {
+    "message": "NoYouPub controls"
+  },
+  "m36c00f8c7efa516e": {
+    "message": "TV player controls"
+  },
+  "mf709890c3ccfa83f": {
+    "message": "Follow application"
+  },
+  "m38b910afbd136958": {
+    "message": "Get started"
+  },
+  "m715c15e4a03c635b": {
+    "message": "Compatible — prepare the complete MP4"
+  },
+  "m3ac55513e8b5434c": {
+    "message": "Settings saved."
+  },
+  "m000256f54dd4d3be": {
+    "message": "First-time setup"
+  },
+  "m88cce67245c8dfe7": {
+    "message": "Configuration must not be a symlink"
+  },
+  "meb26d58f82bce3dc": {
+    "message": "TV connection"
+  },
+  "m71f6fffa2e91a789": {
+    "message": "Connecting the video stream to your TV…"
+  },
+  "m3aea82a6e4e5150e": {
+    "message": "Connection and settings"
+  },
+  "md72a7522fbf84368": {
+    "message": "Connection and settings…"
+  },
+  "m07e37c0ab197cd35": {
+    "message": "Connection to NoYouPub interrupted."
+  },
+  "m29b690e0e069e85f": {
+    "message": "Connecting to NoYouPub…"
+  },
+  "m3573aa922090c360": {
+    "message": "Connecting to TV…"
+  },
+  "m84b03702780e4858": {
+    "message": "Copy"
+  },
+  "mc5f602409d54f86f": {
+    "message": "Copy path"
+  },
+  "mac3ace694f0e746c": {
+    "message": "Core and preferences removed."
+  },
+  "mc0be34aba1f3434f": {
+    "message": "Cut"
+  },
+  "m571dc108b64050ff": {
+    "message": "Mute TV audio"
+  },
+  "m806b88618d2bab26": {
+    "message": "In Chrome, open chrome://extensions, turn on Developer mode and choose “Load unpacked”."
+  },
+  "m06be566659678ca9": {
+    "message": "In the file picker, use Cmd + Shift + G to paste this path."
+  },
+  "m4e8a60a649b79bc7": {
+    "message": "Data path must not contain symlinks"
+  },
+  "m86136f236b592bd7": {
+    "message": "Last playback: "
+  },
+  "m85c8f37af6ba2932": {
+    "message": "Last played: {{0}} · {{1}}"
+  },
+  "m6269c8e2decb199d": {
+    "message": "Two receiver types are supported"
+  },
+  "mb1fa878a98a15b74": {
+    "message": "Diagnostics"
+  },
+  "m661a466cb564c0e2": {
+    "message": "Checking the bridge, network, Google Cast / DLNA TVs and Chrome extension…"
+  },
+  "mf4165d3f9fb3f19a": {
+    "message": "Cast this video to TV"
+  },
+  "m1d9caa143e40933f": {
+    "message": "Replace the video on TV with this one"
+  },
+  "mcff249fd2a045bd2": {
+    "message": "Cast to TV"
+  },
+  "m9e353dbd272d0478": {
+    "message": "Cast to my TV"
+  },
+  "mbab797273a848619": {
+    "message": "Cast to my TV with NoYouPub"
+  },
+  "m06832405daf6e551": {
+    "message": "Casting stopped."
+  },
+  "mcf694d1a75f30860": {
+    "message": "Casting to TV"
+  },
+  "mf4e4f699637be88f": {
+    "message": "Available"
+  },
+  "m7aa63b33f25020e7": {
+    "message": "Starting playback"
+  },
+  "m14342b8df92abe57": {
+    "message": "Starting the stream on {{0}}…"
+  },
+  "m5aed35af5147a139": {
+    "message": "Fast start"
+  },
+  "m6f42b78fdac7f83c": {
+    "message": "Seeking…"
+  },
+  "m90c17b2cb5721922": {
+    "message": "Seeking to {{0}}…"
+  },
+  "mdb005b6ba9fa3e7c": {
+    "message": "Disable Chrome bridge"
+  },
+  "mfd28ed45c7da6ede": {
+    "message": "Uninstall NoYouPub Core"
+  },
+  "m30432f0a10a60879": {
+    "message": "Paused on "
+  },
+  "mba118bf7fc9c1aed": {
+    "message": "English"
+  },
+  "mf854313ffcb78fbe": {
+    "message": "Sending to TV"
+  },
+  "m75c32a64ec5745da": {
+    "message": "Example: 192.168.1.100"
+  },
+  "mb399e168f3eb6b5d": {
+    "message": "Expected a verified macOS executable: "
+  },
+  "ma7686c1e16ff8487": {
+    "message": "Chrome extension"
+  },
+  "m811751bd327f86ef": {
+    "message": "Chrome extension (optional)"
+  },
+  "mb8382d51cac74700": {
+    "message": "Chrome extension: "
+  },
+  "md95406dddd2d73da": {
+    "message": "Extension context invalidated"
+  },
+  "m7696198cb11e17f5": {
+    "message": "Extension identity mismatch"
+  },
+  "ma2bbd786204daf0a": {
+    "message": "Extension updated: reload this YouTube page."
+  },
+  "ma5fe4f0eb47f8497": {
+    "message": "FFmpeg is required for this LG/DLNA TV. Install FFmpeg and try again."
+  },
+  "m711e5f2e198df1b6": {
+    "message": "Close"
+  },
+  "mdfb065a951845ffe": {
+    "message": "Close TV menu"
+  },
+  "mb30e5ac0deaccb8d": {
+    "message": "Queue"
+  },
+  "m6e3a2f0b6f28f319": {
+    "message": "Queue and last playback"
+  },
+  "m00dd6016d237bdd3": {
+    "message": "Queue cleared."
+  },
+  "m6a2479514761dc60": {
+    "message": "TS stream ready before connecting TV."
+  },
+  "md92806cbc9e67fed": {
+    "message": "Folder contains unowned files"
+  },
+  "mb8f79eac0bbc11ae": {
+    "message": "Segment sent"
+  },
+  "m1528bf3d61048bfc": {
+    "message": "Video segment too large"
+  },
+  "me495d53b967a7b04": {
+    "message": "Français"
+  },
+  "m18effbcf88e85c7d": {
+    "message": "Keep your Mac awake during playback. Ads embedded in the video remain. Some protected or account-restricted videos may fail."
+  },
+  "m5e193188be3d9468": {
+    "message": "Google Cast / Chromecast and DLNA receivers, including the LG detected on your network. YouTube’s Cast button may use another protocol: it does not guarantee Google Cast compatibility."
+  },
+  "m48a6cb8bd8c8c493": {
+    "message": "Google Cast or LG/DLNA • On the same network as this Mac."
+  },
+  "mc1a168811c6de972": {
+    "message": "Media host not allowed: "
+  },
+  "mbb2ef616dae9b95c": {
+    "message": "Cannot determine this computer’s local address."
+  },
+  "mf90e3faf838e616a": {
+    "message": "Could not start the bridge. Open Connection and settings to check the installation."
+  },
+  "ma2fa8cd7e24e4d63": {
+    "message": "Unable to start the core. Open Installation and language to check its components."
+  },
+  "m07722fbc4a241834": {
+    "message": "Incomplete installation: uninstall the owned Core and install again"
+  },
+  "m094be15dcc158239": {
+    "message": "Installing components in your Mac account…"
+  },
+  "mad0367bc07368e1d": {
+    "message": "Setup and language"
+  },
+  "mc3923f65b77a80e1": {
+    "message": "Incomplete installation"
+  },
+  "m27716e39070ba78e": {
+    "message": "Installation ownership could not be verified"
+  },
+  "m5b428f20bd501dc9": {
+    "message": "Install NoYouPub Core"
+  },
+  "m88e1121f015a8ef6": {
+    "message": "Invalid language"
+  },
+  "m45d8b0c8f3cc02b7": {
+    "message": "Invalid language preference"
+  },
+  "m2d2634f3aa24d9d2": {
+    "message": "Invalid relay state"
+  },
+  "m07a22e8245b65e43": {
+    "message": "Invalid runtime manifest path"
+  },
+  "m7f1bedfc5de2cd58": {
+    "message": "LG: the Mac prepares the video for TV playback."
+  },
+  "m10a3f3755fbe4ff3": {
+    "message": "The TV refused "
+  },
+  "m7bf7f2f30635cb70": {
+    "message": "The TV is taking too long to respond."
+  },
+  "m824d3212e4110cce": {
+    "message": "The TV is not responding or has not confirmed playback. Check its connection and try casting again."
+  },
+  "m6ffe729f8b028de3": {
+    "message": "The TV did not respond to the volume request."
+  },
+  "m7ca25385318daa09": {
+    "message": "The TV did not respond to the status request."
+  },
+  "m12b4009fbf9898c1": {
+    "message": "The TV is not responding."
+  },
+  "mf01bd75dcd2983dd": {
+    "message": "The TV has not responded for a minute. Check the connection and restart playback."
+  },
+  "mad59b754316a84ee": {
+    "message": "The TV did not confirm the command. Try again in a moment."
+  },
+  "m034431e543aec1d7": {
+    "message": "The TV did not confirm playback resuming. Try again in a moment."
+  },
+  "m47706b760c16cd5b": {
+    "message": "The command failed."
+  },
+  "me349982edbc466dd": {
+    "message": "The connection to your TV was interrupted. Try the command again; an already playing video may continue."
+  },
+  "m8f49675f5502553d": {
+    "message": "The queue is limited to 50 videos."
+  },
+  "mbdf67786af808fb3": {
+    "message": "Playback did not start (requests received: "
+  },
+  "ma02c3f5f0abc1253": {
+    "message": "Playback did not start (requests received: {{0}}). Check local network access to the relay."
+  },
+  "medcd51fd7af2d375": {
+    "message": "Preparation exceeded its time limit. Try again."
+  },
+  "mbd94300ecabaca11": {
+    "message": "Preparation timed out. Try again at 480p."
+  },
+  "mbaa1ff6c82d0af41": {
+    "message": "Preparation was interrupted. You can try again."
+  },
+  "mf5825f4d042bd2d8": {
+    "message": "Preparing the LG-compatible MP4 failed."
+  },
+  "m20676ec726c486b5": {
+    "message": "Preparation is not responding. Cancel this attempt and try again."
+  },
+  "mf7029140c093089d": {
+    "message": "The video changed"
+  },
+  "m235f28f68d5fc7fb": {
+    "message": "The video changed. Try again."
+  },
+  "mafc2edcff31299ad": {
+    "message": "The video loads as it plays."
+  },
+  "m212fa711b4d91e06": {
+    "message": "Start a video with “Cast to my TV” to control it here."
+  },
+  "mbd20bdf6c8c5c4e1": {
+    "message": "Run diagnostics"
+  },
+  "m5f6baab4dbe152fc": {
+    "message": "Language"
+  },
+  "m197c1909e8757e48": {
+    "message": "Application language"
+  },
+  "m68980945ceccaf1f": {
+    "message": "System language"
+  },
+  "m4602c4c529f20d0b": {
+    "message": "Your Mac stays awake during casting."
+  },
+  "m6b5cb5d5f82ba435": {
+    "message": "Bridge check failed: "
+  },
+  "m4194d222a6e6629e": {
+    "message": "The folder already exists without our installation marker: "
+  },
+  "mdc9bb9ea89411259": {
+    "message": "The folder already exists without our installation marker: {{0}}. No files were replaced."
+  },
+  "mfa424a6f359a44a9": {
+    "message": "Seeking is not available for this video."
+  },
+  "m1d30c3aa4e9fe8ca": {
+    "message": "The fast stream could not be prepared. Use Compatible mode."
+  },
+  "mecd5d5179f24a6ed": {
+    "message": "The link must point to a video, not just a channel or playlist."
+  },
+  "m1e69e31840ca202f": {
+    "message": "Fast mode starts without waiting for the entire video. Resuming after a pause may still fail on LG; use Compatible mode for the next cast if needed."
+  },
+  "m62979edd635dfd7c": {
+    "message": "The core is included in this application. Chrome can use it without keeping this window open."
+  },
+  "m65842a0cf94c1d2f": {
+    "message": "The core does not need an open window."
+  },
+  "mf7e78aadfc208a00": {
+    "message": "Fullscreen is not available."
+  },
+  "me1c3a0a389746a6a": {
+    "message": "The relay stopped. See config/last-cast.log."
+  },
+  "m9b999f5fc05a70f9": {
+    "message": "The relay stopped. You can try again."
+  },
+  "m2e25df8ea33426ed": {
+    "message": "The local video relay could not start. Try casting again or use Compatible mode."
+  },
+  "mfb09c37f65c2ff00": {
+    "message": "Playback speed is currently available on LG/DLNA TVs."
+  },
+  "m7428ee4b1f384615": {
+    "message": "The YouTube video server is not responding or refused the download. Try 480p or another video."
+  },
+  "mde1e6c49d22f01f2": {
+    "message": "The YouTube video server stopped responding. Try 480p or another video."
+  },
+  "mb27c82231762de36": {
+    "message": "The video server is responding slowly. If the download remains stalled, it will stop with an error message."
+  },
+  "md71ae11f3a0fbde0": {
+    "message": "The video server is responding slowly…"
+  },
+  "m82efbacfca7fb837": {
+    "message": "The download did not produce a complete video. Try again at 480p."
+  },
+  "ma757c6b4039f9966": {
+    "message": "Playback"
+  },
+  "m7298db6d6b92701e": {
+    "message": "Independent computer playback · casting continues on TV."
+  },
+  "m1d4b3f8706db5a3c": {
+    "message": "Independent computer playback. Use YouTube’s controls to start the video."
+  },
+  "m49cfee1d63bb4e1b": {
+    "message": "Playback confirmed by TV."
+  },
+  "m816f4d346bab9bdc": {
+    "message": "Playback confirmed on "
+  },
+  "m0f9bf1d33ecb2bb5": {
+    "message": "Playback confirmed on {{0}}: {{1}}\n{{2}}p · track {{3}}\nKeep your Mac awake during playback."
+  },
+  "mb76e2e67257b477e": {
+    "message": "Playback confirmed."
+  },
+  "mb062f990f42ee8e3": {
+    "message": "Playing on TV."
+  },
+  "mb018948d7ea1e30a": {
+    "message": "Playback paused"
+  },
+  "m6fb6813c65d48e8e": {
+    "message": "Playback paused on TV."
+  },
+  "m9cdfcc52f168ea76": {
+    "message": "Playback resumed on TV."
+  },
+  "m3b2c0cab064db494": {
+    "message": "Playing on "
+  },
+  "mbdbc58157997a85d": {
+    "message": "Playing on TV"
+  },
+  "m7ceb053c47c97975": {
+    "message": "Playback finished or stopped."
+  },
+  "m85e593382c484a5b": {
+    "message": "Playback finished."
+  },
+  "m71005629f8f14dce": {
+    "message": "LG DLNA TVs are supported directly; the video is prepared on your Mac before playback."
+  },
+  "m63b36c1b14c3a443": {
+    "message": "LG DLNA TVs are supported; Fast mode plays while downloading and Compatible mode prepares the complete MP4."
+  },
+  "m0f00b820d6f32176": {
+    "message": "The standalone components are not included in this development build. See the build guide."
+  },
+  "mddd4fedbee140a2f": {
+    "message": "Play the previous video"
+  },
+  "m9b40befb4856481d": {
+    "message": "Play the next video"
+  },
+  "m9fbb70399a53c027": {
+    "message": "Find the address in your TV’s network settings. Useful when automatic discovery is blocked."
+  },
+  "m147261430bf8c3e7": {
+    "message": "The application also works without this extension. The extension uses the same bridge and compatible TVs."
+  },
+  "m2ffafd2a8697ac37": {
+    "message": "The extension adds a button to YouTube; it does not add Google Cast support to a TV."
+  },
+  "m911dba983240cb4d": {
+    "message": "MP4 optimization took too long. Try a lower quality."
+  },
+  "mbf0c106f01fca01d": {
+    "message": "The TV status is out of date. Check its connection."
+  },
+  "md4f8b6191f1fd626": {
+    "message": "Missing"
+  },
+  "md3db9ab8195f3598": {
+    "message": "Pause TV playback"
+  },
+  "m04a930c2ee7c8784": {
+    "message": "Missing Chrome extension payload"
+  },
+  "m0d6a95dd5a7ed0ac": {
+    "message": "Missing audited license notice"
+  },
+  "m570a961683914a5b": {
+    "message": "Missing audited runtime manifest"
+  },
+  "md554a2a560c0b936": {
+    "message": "Missing executable: "
+  },
+  "m5e23ec6a300dc60a": {
+    "message": "Mode"
+  },
+  "m94ed41de2c805879": {
+    "message": "Invalid mode."
+  },
+  "m4304ccfa3f662ac5": {
+    "message": "Media"
+  },
+  "m8ed7372eb95717a1": {
+    "message": "Native host belongs to another installation"
+  },
+  "m2be5143ca7065594": {
+    "message": "No relay is running."
+  },
+  "m456e2c9b007a1c82": {
+    "message": "NoYouPub was updated. Reload the page to restore TV controls."
+  },
+  "medec18e13663028c": {
+    "message": "NoYouPub connected."
+  },
+  "mbd9e7dda9556162b": {
+    "message": "NoYouPub is not responding."
+  },
+  "m4768daa2faa7bc7c": {
+    "message": "Node.js 22 or later is required."
+  },
+  "m1aaf3e0e4a95dd31": {
+    "message": "Normal"
+  },
+  "m1b6444bda0988704": {
+    "message": "Optimizing MP4 for pause and resume…"
+  },
+  "m88e48e470b58e5d4": {
+    "message": "Origin not allowed."
+  },
+  "me4af1c2f427a2e26": {
+    "message": "Open a YouTube video."
+  },
+  "mf4b42798ad9f2b75": {
+    "message": "Open YouTube ↗"
+  },
+  "md3907377e5230d66": {
+    "message": "Open TV menu"
+  },
+  "m1aec4ae43b8d33be": {
+    "message": "Open Chrome extensions"
+  },
+  "m3ef6cc6e28773514": {
+    "message": "Open logs"
+  },
+  "m894adf9ca8e1907d": {
+    "message": "Open Mac network settings"
+  },
+  "m1d3ae6b44dcd69a0": {
+    "message": "Open Google Cast help"
+  },
+  "m45774ccd798f8836": {
+    "message": "Switch to computer playback to watch another video without stopping the TV."
+  },
+  "m33d17de68da5fbdc": {
+    "message": "Bridge: "
+  },
+  "mefae7b0aea2b1057": {
+    "message": "Chrome bridge enabled."
+  },
+  "m69a06ebe845616a6": {
+    "message": "Bridge unavailable. Install NoYouPub Core or open the Mac app settings, then reload YouTube."
+  },
+  "mebe8f6219c7eb759": {
+    "message": "Bridge disabled. Your preferences are kept."
+  },
+  "m858e4ba7a29fd38b": {
+    "message": "Pause"
+  },
+  "m267b95214c3fb52e": {
+    "message": "Payload symlink escapes its root"
+  },
+  "md35d0f4390cb6e23": {
+    "message": "Per-user macOS installation; no administrator privileges or shell interpolation."
+  },
+  "m76b3b2132fcbe462": {
+    "message": "Playback stopped; the relay will close after its normal grace period."
+  },
+  "mdee312b0129c1657": {
+    "message": "Full screen"
+  },
+  "mc3c0357e68f0f351": {
+    "message": "Video position"
+  },
+  "m18cceffdd6d4d05f": {
+    "message": "Playback position on TV"
+  },
+  "m53bf5e0aca5f5adb": {
+    "message": "Position updated."
+  },
+  "m826c69c6fab57dc2": {
+    "message": "Preferences kept."
+  },
+  "m55991db9f81137ec": {
+    "message": "Private preparation status shared by the native app and Chrome extension."
+  },
+  "m516431e0d088110d": {
+    "message": "Preparation progress"
+  },
+  "m8b3473d4ceca7c4b": {
+    "message": "Existing preferences preserved."
+  },
+  "mf81d40b99f668197": {
+    "message": "Preparation cancelled."
+  },
+  "mc7232bac37f5570c": {
+    "message": "Preparation cancelled. Nothing new was sent to TV."
+  },
+  "m4e9a6c09e8755d4b": {
+    "message": "Preparation cancelled. You can choose another video."
+  },
+  "meaff37846b3de9e6": {
+    "message": "Preparing the complete video for {{0}}… This may take several minutes."
+  },
+  "mbeb7bcb27396898b": {
+    "message": "Preparing video"
+  },
+  "m4d62d89217bb94aa": {
+    "message": "Preparing video on TV…"
+  },
+  "md038e2acfee3200d": {
+    "message": "Preparing…"
+  },
+  "m9c1a646738b68a3d": {
+    "message": "Ready · Choose a video to cast"
+  },
+  "m5d4913dfb3dfe658": {
+    "message": "Ready to cast"
+  },
+  "m8dce95eeb4a836e6": {
+    "message": "Quality"
+  },
+  "m9a95026ec19769da": {
+    "message": "Invalid quality"
+  },
+  "m58631dabb9026f7d": {
+    "message": "Invalid quality."
+  },
+  "m923bc68566990e26": {
+    "message": "Maximum quality"
+  },
+  "m052fcb8e6bf2513b": {
+    "message": "Quit NoYouPub"
+  },
+  "mcf3a3b13aa596f44": {
+    "message": "Fast — play while downloading"
+  },
+  "m8fa4bad67d83d3ef": {
+    "message": "Reload this YouTube page to activate the update."
+  },
+  "m8048a20b97d142c7": {
+    "message": "Reload YouTube pages, then click the new TV icon in the player."
+  },
+  "mb76d5f52b51830f8": {
+    "message": "Searching for TVs on your network…"
+  },
+  "m672dc9070cd66a2a": {
+    "message": "Finding and connecting to TV…"
+  },
+  "mca2a8cd067a2fcba": {
+    "message": "Reconnection attempted. Use “Resume” if playback remains interrupted."
+  },
+  "me609a2db8d7e8538": {
+    "message": "Reconnecting to TV…"
+  },
+  "m6c490e24a4395cf2": {
+    "message": "Refusing to modify the legacy installation or its parent"
+  },
+  "m87ac40ae849edad5": {
+    "message": "Watch on this computer"
+  },
+  "ma98531c6da15a20b": {
+    "message": "Relay finished."
+  },
+  "ma1719071973eeb87": {
+    "message": "Restart this video with NoYouPub to enable playback speed."
+  },
+  "m9b25bbeeb1a32e4c": {
+    "message": "Relay shutdown requested."
+  },
+  "mddd913203fe2d993": {
+    "message": "Resume"
+  },
+  "m3a87ea8a45e38d6f": {
+    "message": "Resume last playback"
+  },
+  "m9a8a92c0525880f1": {
+    "message": "Resume playback on TV"
+  },
+  "mb625d440922cb492": {
+    "message": "Request must be an object"
+  },
+  "m64dca2b29b7868ca": {
+    "message": "Remove a video from the queue before going back."
+  },
+  "m41e22ed93372748e": {
+    "message": "Remove"
+  },
+  "m6b4646a267f0d05b": {
+    "message": "Remove {{0}}"
+  },
+  "m24a595ea600008c2": {
+    "message": "Runtime audit is incomplete"
+  },
+  "md9a9a2d69c56a6db": {
+    "message": "Runtime checksum mismatch"
+  },
+  "m4e6730495fa56b42": {
+    "message": "Video receivers found: "
+  },
+  "m6629d9903562a8b6": {
+    "message": "Try this video again"
+  },
+  "maf37fc430c0576b8": {
+    "message": "Settings saved for the next cast."
+  },
+  "m23884c9bd4304730": {
+    "message": "Unmute TV audio"
+  },
+  "mdfca5da56b8cdb62": {
+    "message": "Section"
+  },
+  "mb6872a99834a8eff": {
+    "message": "Audio updated."
+  },
+  "ma67b5ee7f60f9c86": {
+    "message": "Stop the core before uninstalling"
+  },
+  "m2fef40c515b2a2e1": {
+    "message": "On YouTube, click Share → Copy link, then paste it here."
+  },
+  "mf38b8f450246a69d": {
+    "message": "On TV: "
+  },
+  "mc315ed81c83bf41e": {
+    "message": "On the TV: {{0}} · The video on this page stays on the Mac."
+  },
+  "m62a27a773b3dcad3": {
+    "message": "Select this folder:\n"
+  },
+  "m5c07b22473595a19": {
+    "message": "Configured TV"
+  },
+  "m63729bea2d1fd13e": {
+    "message": "Available TVs refreshed."
+  },
+  "m877fecaf5ba76481": {
+    "message": "Saved TV (unavailable)"
+  },
+  "m9b8ad05af04f7ce0": {
+    "message": "TV not found? Turn on your Chromecast, check Wi-Fi and avoid guest networks. In System Settings → Privacy & Security → Local Network, allow this application or Python if macOS asks."
+  },
+  "m5b81b4de21a85f47": {
+    "message": "Selected TV: "
+  },
+  "me59313b83a6b7e09": {
+    "message": "TV found. Now paste a YouTube video link."
+  },
+  "mb957f228c3ac66f4": {
+    "message": "TV, Chrome and diagnostics"
+  },
+  "mb99c666e691f448b": {
+    "message": "Test and add"
+  },
+  "m5b6fef95fb92a910": {
+    "message": "Select All"
+  },
+  "me4f7cb85c5ba923c": {
+    "message": "Processing…"
+  },
+  "md1361a3abbe599e5": {
+    "message": "Find your Chromecast and send it video over the local network."
+  },
+  "mb9915c471ecd60ff": {
+    "message": "Downloading video (1/2)…"
+  },
+  "m89be4f228832334b": {
+    "message": "Downloading video and audio…"
+  },
+  "m06ffc0690982b18a": {
+    "message": "Downloading audio (2/2)…"
+  },
+  "m107b621385758352": {
+    "message": "Downloading and preparing for LG. Playback starts when complete."
+  },
+  "m9697cf7bd8a43d40": {
+    "message": "Television"
+  },
+  "mf42baaa020d6b771": {
+    "message": "Another CATT bridge is registered in Chrome. No files were replaced."
+  },
+  "m9b5e75189ef18dda": {
+    "message": "A video is already being prepared."
+  },
+  "meb8a1015b2bc183c": {
+    "message": "Unhashed runtime file: "
+  },
+  "m1a08cdaccf96ac03": {
+    "message": "Unknown installation marker"
+  },
+  "m74dc92123cb8677e": {
+    "message": "Unsafe data directory"
+  },
+  "mc43f072b90068eb3": {
+    "message": "V3 data must be isolated from the legacy installation"
+  },
+  "m3b9db1750d118c32": {
+    "message": "Clear"
+  },
+  "mb015a7a24868c18b": {
+    "message": "MP4 ready for LG."
+  },
+  "m46aa38caf70b493d": {
+    "message": "YouTube video"
+  },
+  "m451da5e7c4175d51": {
+    "message": "Video added to queue."
+  },
+  "m7d29bb43248c6fce": {
+    "message": "Video on this page"
+  },
+  "maf3ab08308358ecf": {
+    "message": "Invalid video."
+  },
+  "m6d87d6374c11e9f4": {
+    "message": "Previous video started."
+  },
+  "m067074a4153a4f83": {
+    "message": "Video ready. Sending and starting on TV…"
+  },
+  "ma0669dd78691898b": {
+    "message": "Video removed."
+  },
+  "mbeadc59a79aaad21": {
+    "message": "Video only on TV · Keep your Mac and Chrome open during playback."
+  },
+  "ma27039f74dc55dd6": {
+    "message": "Next video started."
+  },
+  "m3d17399adceec5d9": {
+    "message": "Speed"
+  },
+  "m19cb786abb8e8e4f": {
+    "message": "Playback speed"
+  },
+  "m0ac1d3fa68388211": {
+    "message": "Playback speed updated."
+  },
+  "m7febcac11f85cd17": {
+    "message": "TV playback speed"
+  },
+  "md5e900de0ed3e2fa": {
+    "message": "Invalid playback speed."
+  },
+  "m3845c023de2f77a5": {
+    "message": "TV volume"
+  },
+  "m6d4d5ffc760d4dcd": {
+    "message": "Volume updated."
+  },
+  "m10b970dc1be556ba": {
+    "message": "Checking stream startup…"
+  },
+  "m0cd4d1d14b792791": {
+    "message": "Check the core"
+  },
+  "m78f5475a3583722a": {
+    "message": "Verify installation"
+  },
+  "md39610084f36d150": {
+    "message": "YouTube does not provide H.264 video with AAC audio at this quality. Try another quality or video."
+  },
+  "mb03f46beab01e3b3": {
+    "message": "YouTube on your TV, with progress at every step."
+  },
+  "md26b164aacb10982": {
+    "message": "[media address]"
+  },
+  "m87a488ebdc52b6da": {
+    "message": "config/playback-mode.json"
+  },
+  "ma7e9d75b8073b92b": {
+    "message": "registered in a Chrome profile"
+  },
+  "m26f1de33979d065b": {
+    "message": "extension"
+  },
+  "mb93dd226f68183a6": {
+    "message": "extension-identity.json"
+  },
+  "mbdb5cae59928803b": {
+    "message": "extension/background.js"
+  },
+  "m7889f2c7c8a61e55": {
+    "message": "extension/icons/icon-128.png"
+  },
+  "mdc6249f654b631f1": {
+    "message": "extension/icons/icon-16.png"
+  },
+  "mbf7b2af57899bea7": {
+    "message": "extension/icons/icon-32.png"
+  },
+  "ma14ff746c5fa791a": {
+    "message": "extension/icons/icon-48.png"
+  },
+  "m1929f2f40162baf3": {
+    "message": "extension/manifest.json"
+  },
+  "m4b27054e0446fe72": {
+    "message": "extension/page_state.js"
+  },
+  "m6ac30785d10b142a": {
+    "message": "extension/suggestions.js"
+  },
+  "m759f4bc825f78f63": {
+    "message": "extension/youtube.js"
+  },
+  "me642b12901a6ee51": {
+    "message": "mode"
+  },
+  "m4cf986234463fbc1": {
+    "message": "not registered yet"
+  },
+  "m6210c0bf05396716": {
+    "message": "pause"
+  },
+  "m74d918616b451bc6": {
+    "message": "pause.fill"
+  },
+  "mcc86a550dab320e2": {
+    "message": "another video"
+  },
+  "m62d7a6b1211d6276": {
+    "message": "volume"
+  },
+  "mf04ca58a03430a43": {
+    "message": "x-apple.systempreferences:com.apple.Network-Settings.extension"
+  },
+  "maad9deeead10b518": {
+    "message": "{{0}} MB prepared"
+  },
+  "m77142e9c9fa6a682": {
+    "message": "{{0}} s elapsed"
+  },
+  "m43235089cf471b07": {
+    "message": "{{0}} elapsed"
+  },
+  "ma4944d07071b6457": {
+    "message": "Edit"
+  },
+  "mde4dd03297a1a1b2": {
+    "message": "Status"
+  },
+  "m7c31ef631879037e": {
+    "message": "TV status temporarily unavailable: "
+  },
+  "md0dd8015700d8f9b": {
+    "message": "Invalid audio state"
+  },
+  "m54ee9897d5947334": {
+    "message": "Invalid audio state."
+  },
+  "m064af33b2034de8b": {
+    "message": "Status out of date"
+  },
+  "extensionDescription": {
+    "message": "Cast YouTube to a compatible TV with NoYouPub Core."
+  }
+}

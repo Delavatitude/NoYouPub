@@ -1,0 +1,48 @@
+{
+  "manifest_version": 3,
+  "name": "NoYouPub",
+  "version": "3.0.0",
+  "description": "__MSG_extensionDescription__",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAksmBIMWoeHm5klQNhLB1fKbsnzfo7WFMB2WxRjpuycGLmImNTfwJxBcpVfPZvOguQkyiVQ5fT+UhJcKYiX5CLEt7ADEqaAMwwyHFJb8C7UrG0dbidV+4+AkQaK/DS6wJ55/XZEa581N7D3xUVVv8T5uBmo8jHmANMda1hr8lQbmr8tVQ4i2Rq/pOXm9UGUS7IJ67JpJ5BFWNWYB8IhHzqv4qiCV3w0PZBZJXqNYP7viSSqTNLlDjxTORhmiJ7G5BC5K5LEukKGF9B0Nuuq6DBj1ZkWODVkxEyRag73gEUotd9HW1mDpxnleTs4z+2zGd9jy6zQY72+SDcIvDtZVGRQIDAQAB",
+  "permissions": [
+    "nativeMessaging",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/*"
+      ],
+      "js": [
+        "i18n.js",
+        "page_state.js",
+        "youtube.js",
+        "suggestions.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+  "icons": {
+    "16": "icons/noyoupub-violet-16.png",
+    "32": "icons/noyoupub-violet-32.png",
+    "48": "icons/noyoupub-violet-48.png",
+    "128": "icons/noyoupub-violet-128.png"
+  },
+  "default_locale": "en",
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "i18n-index.json",
+        "_locales/en/messages.json",
+        "_locales/fr/messages.json"
+      ],
+      "matches": [
+        "https://www.youtube.com/*"
+      ]
+    }
+  ]
+}

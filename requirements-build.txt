@@ -1,0 +1,3 @@
+-r requirements-runtime.txt
+# Build tool only; first frozen build still needs validation.
+PyInstaller==6.22.3

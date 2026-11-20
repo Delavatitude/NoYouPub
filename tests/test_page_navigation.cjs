@@ -1,0 +1,40 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const vm=require('node:vm');
+const dir=require('node:path').join(__dirname,'../source/extension/');
+const page=require(dir+'page_state.js');
+const a='https://www.youtube.com/watch?v=aaaaaaaaaaa';
+const b='https://www.youtube.com/watch?v=bbbbbbbbbbb';
+const active={state:{owned:true,player_state:'PLAYING',video_url:a,title:'Vidéo TV'}};
+assert(page.remoteForPage(a,active,'remote'));
+assert(!page.remoteForPage(b,active,'remote'),'Une préférence remote ancienne ne doit pas masquer une nouvelle vidéo');
+assert(!page.remoteForPage(a,active,'local'));
+assert(!page.remoteForPage(b,{last:{active:true,url:a}},'remote'));
+assert(!page.acceptsReply(a,b),'Une réponse de la page précédente doit être ignorée');
+assert(page.acceptsReply(a+'&t=12',a));
+assert(page.remoteForPage(a,{state:{...active.state,player_state:'PAUSED'}},'remote'));
+let listener;
+const context=vm.createContext({URL,console,importScripts:()=>{},NoYouPubPage:page,
+  chrome:{runtime:{id:'test',onMessage:{addListener:fn=>listener=fn}},storage:{local:{get:async()=>({}),set:async()=>{}}}},
+  setInterval:()=>0,setTimeout,clearTimeout});
+vm.runInContext(fs.readFileSync(dir+'background.js','utf8'),context);
+vm.runInContext("tabModes.set(1,'remote')",context);
+assert.equal(context.modeForPage(1,b,active),'local');
+const sender=(url,frame=url)=>({id:'test',frameId:0,url:frame,tab:{id:1,url}});
+assert.equal(context.validate({action:'cast',url:b,position:0},sender(b,a)).url,b);
+assert.throws(()=>context.validate({action:'cast',url:a,position:0},sender(b,a)),/vidéo a changé/);
+(async()=>{
+  let oldReply,newReply;
+  vm.runInContext('dispatch=()=>new Promise(resolve=>{globalThis.oldResolve=resolve})',context);
+  listener({action:'status'},sender(a),r=>oldReply=r);
+  vm.runInContext('dispatch=()=>new Promise(resolve=>{globalThis.newResolve=resolve})',context);
+  listener({action:'status'},sender(b),r=>newReply=r);
+  context.newResolve({ok:true,...active});
+  await new Promise(setImmediate);
+  context.oldResolve({ok:true,...active});
+  await new Promise(setImmediate);
+  assert.equal(newReply.mode,'local');
+  assert(page.acceptsReply(newReply.pageURL,b));
+  assert(!page.acceptsReply(oldReply.pageURL,b));
+  console.log('Navigation A→B, mode distant périmé, réponse tardive et lancement sur la nouvelle page : OK.');
+})().catch(e=>{console.error(e);process.exitCode=1});
