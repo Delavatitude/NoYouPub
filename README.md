@@ -16,6 +16,14 @@ Une vidéo sur votre Mac. Un clic pour l'envoyer sur votre TV. Et toujours le co
 
 **Français** · [English](README.en.md)
 
+<a href="https://www.buymeacoffee.com/louix" target="_blank">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    alt="Buy Me a Coffee"
+    style="height: 60px !important; width: 217px !important;"
+  >
+</a>
+
 </div>
 
 ---
@@ -103,15 +111,10 @@ Parce que chercher une vidéo sur son Mac est pratique. La regarder sur grand é
 
 Si l'application vous est utile et que vous souhaitez soutenir son développement, vous pouvez m'offrir un café. Chaque contribution aide à faire évoluer le projet et à le maintenir accessible gratuitement.
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/louix" target="_blank">
-  <img
-    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-    alt="Buy Me a Coffee"
-    style="height: 60px !important; width: 217px !important;"
-  >
-</a>
-</div>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/louix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="217" height="60" align="middle"></a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/louix" target="_blank"><img src="assets/buy-me-a-coffee-qr.png" alt="Scanner le QR code pour soutenir NoYouPub sur Buy Me a Coffee" width="128" height="128" align="middle"></a>
+</p>
 
 <div align="center">
 
