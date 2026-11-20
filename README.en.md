@@ -95,7 +95,7 @@ The streaming engine runs locally: **no cloud relay server is required**.
 
 Finding videos on a Mac is convenient. Watching them on a big screen is better. NoYouPub brings both together without another complicated interface.
 
-### ☕ Support NoYouPub
+## ☕ Support NoYouPub
 
 **NoYouPub is a free, independently developed and maintained project.**
 

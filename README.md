@@ -97,7 +97,7 @@ Le fonctionnement repose sur un moteur local : **pas besoin d'un serveur cloud p
 
 Parce que chercher une vidéo sur son Mac est pratique. La regarder sur grand écran, encore mieux. NoYouPub rassemble les deux sans ajouter une interface compliquée.
 
-### ☕ Soutenir NoYouPub
+## ☕ Soutenir NoYouPub
 
 **NoYouPub est un projet gratuit, développé et maintenu indépendamment.**
 
