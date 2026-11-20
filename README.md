@@ -97,6 +97,14 @@ Le fonctionnement repose sur un moteur local : **pas besoin d'un serveur cloud p
 
 Parce que chercher une vidéo sur son Mac est pratique. La regarder sur grand écran, encore mieux. NoYouPub rassemble les deux sans ajouter une interface compliquée.
 
+### ☕ Soutenir NoYouPub
+
+**NoYouPub est un projet gratuit, développé et maintenu indépendamment.**
+
+Si l'application vous est utile et que vous souhaitez soutenir son développement, vous pouvez m'offrir un café. Chaque contribution aide à faire évoluer le projet et à le maintenir accessible gratuitement.
+
+[**☕ Offrir un café**](https://buymeacoffee.com/louix)
+
 <div align="center">
 
 ### Prêt à passer au grand écran ?
