@@ -103,7 +103,15 @@ Parce que chercher une vidéo sur son Mac est pratique. La regarder sur grand é
 
 Si l'application vous est utile et que vous souhaitez soutenir son développement, vous pouvez m'offrir un café. Chaque contribution aide à faire évoluer le projet et à le maintenir accessible gratuitement.
 
-[**☕ Offrir un café**](https://buymeacoffee.com/louix)
+<div align="center">
+<a href="https://www.buymeacoffee.com/louix" target="_blank">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    alt="Buy Me a Coffee"
+    style="height: 60px !important; width: 217px !important;"
+  >
+</a>
+</div>
 
 <div align="center">
 
