@@ -42,14 +42,6 @@ Les publicités classiques de l'application YouTube sont évitées par ce mode d
 </tr>
 </table>
 
-## ✨ Comment ça marche
-
-<p align="center">
-  <img src="assets/how-it-works-fr.svg" width="640" alt="Dans le navigateur, vous choisissez la vidéo. Le Mac prépare et transmet le flux. La télévision lit la vidéo avec son propre lecteur." />
-</p>
-
-Le Mac transmet la vidéo et pilote la lecture. Il doit rester allumé pendant la diffusion.
-
 ## ⬇️ Installer NoYouPub
 
 > [!IMPORTANT]

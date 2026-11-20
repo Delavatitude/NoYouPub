@@ -40,14 +40,6 @@ This playback approach avoids typical YouTube app ads. Sponsor segments **embedd
 <td width="33%" align="center"><h3>🎛️ Stay in control</h3>Pause, resume, seek and adjust playback speed.</td>
 </tr></table>
 
-## ✨ How it works
-
-<p align="center">
-  <img src="assets/how-it-works-en.svg" width="640" alt="You choose a video in the browser. The Mac prepares and streams it. The TV plays the video in its own player." />
-</p>
-
-Your Mac streams the video and controls playback. It must stay awake while watching.
-
 ## ⬇️ Get NoYouPub
 
 > [!IMPORTANT]
