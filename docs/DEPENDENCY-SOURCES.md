@@ -1,0 +1,8 @@
+# NoYouPub beta dependency sources
+
+The release DMG contains license texts, notices, an inventory and the corresponding third-party source archives in `NoYouPub 3.0 Beta.app/Contents/Resources/Notices/`. The GitHub release also includes a separate archive with these materials.
+
+- FFmpeg and ffprobe 8.1.2 are separate LGPL executables. Verify the archive digest and follow `FFmpeg-buildconf.txt`. In the Notices directory, create `ffmpeg` and `clean-src`, unpack `ffmpeg-8.1.2.tar.xz` in `clean-src`, then run `bash build-ffmpeg.sh`. For a modified FFmpeg, replace the unpacked source with your compatible source before running the build. The app calls the executables in the package’s `Contents/Resources/bin` directory.
+- For zeroconf 0.154.0 (LGPL-2.1-or-later), unpack `zeroconf-0.154.0.tar.gz` and make your changes there. On an Apple Silicon Mac with Python 3.14 and the command-line build tools, install `requirements-build.txt` into a fresh virtual environment, then install the modified directory into that environment with `python -m pip install --force-reinstall --no-deps /path/to/modified/zeroconf`. Run `python scripts/freeze_core.py --python /path/to/venv/bin/python` from this source tree. Follow `docs/BUILD.md` to assemble a local app with the rebuilt Core and refresh the package manifest. You may modify the LGPL parts for your own use and reverse-engineer the combined work to debug those modifications as provided by the LGPL.
+- Certifi 2026.10.23 (MPL-2.0) is available in source form in `certifi-2026.10.23.tar.gz`. See its included license.
+- Mutagen is excluded from the frozen release Core. The inventory also describes the build environment, which can differ from the bundled modules.
