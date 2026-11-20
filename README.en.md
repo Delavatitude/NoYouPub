@@ -23,7 +23,8 @@ Choose a video on your Mac. Send it to your TV. Stay in control from your comput
     alt="Buy Me a Coffee"
     style="height: 60px !important; width: 217px !important;"
   >
-</a>&nbsp;&nbsp;
+</a>
+<br />
 <a href="https://ko-fi.com/K6Y22AZAN6"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support NoYouPub on Ko-fi" width="223" height="30" align="middle"></a>
 
 </div>
@@ -96,7 +97,8 @@ Finding videos on a Mac is convenient. Watching them on a big screen is better. 
 If you find it useful and would like to support its development, you can buy me a coffee. Every contribution helps improve the project and keep it freely available.
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/louix" target="_blank"><img src="assets/buy-me-a-coffee-qr.png" alt="Scan the QR code to support NoYouPub on Buy Me a Coffee" width="128" height="128" align="middle"></a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/louix" target="_blank"><img src="assets/buy-me-a-coffee-qr.png" alt="Scan the QR code to support NoYouPub on Buy Me a Coffee" width="128" height="128" align="middle"></a>
+  <br />
   <a href="https://ko-fi.com/K6Y22AZAN6"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support NoYouPub on Ko-fi" width="223" height="30" align="middle"></a>
 </p>
 
