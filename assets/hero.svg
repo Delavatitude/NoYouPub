@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="NoYouPub — YouTube sur votre TV, le contrôle sur votre Mac">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a0915"/><stop offset="1" stop-color="#17112e"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#754af4" stop-opacity=".37"/><stop offset="1" stop-color="#754af4" stop-opacity="0"/></radialGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bd8aff"/><stop offset=".6" stop-color="#8654ff"/><stop offset="1" stop-color="#6735d4"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#26213f"/><stop offset="1" stop-color="#0d0b1b"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="1200" height="430" rx="26" fill="url(#bg)"/>
+<circle cx="900" cy="204" r="300" fill="url(#halo)"/>
+<g opacity=".12" stroke="#aa92ff" stroke-width="1"><path d="M0 66H1200 M0 133H1200 M0 200H1200 M0 267H1200 M0 334H1200 M80 0V430 M160 0V430 M240 0V430 M320 0V430 M400 0V430 M480 0V430 M560 0V430 M640 0V430 M720 0V430 M800 0V430 M880 0V430 M960 0V430 M1040 0V430 M1120 0V430"/></g>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="68" y="64" width="116" height="29" rx="14.5" fill="#292044" stroke="#5a3a94"/>
+<circle cx="86" cy="78.5" r="4" fill="#af84ff"/><text x="98" y="83" font-size="12" fill="#d7c7ff" font-weight="bold" letter-spacing="1.5">MACOS APP</text>
+<text x="64" y="176" font-size="66" fill="#ffffff" font-weight="bold" letter-spacing="-2">NoYouPub</text>
+<text x="67" y="233" font-size="28" fill="#ece9f8" font-weight="bold">YouTube sur votre TV.</text>
+<text x="67" y="274" font-size="28" fill="#a77bff" font-weight="bold">Sans les pubs.</text>
+<text x="68" y="327" font-size="17" fill="#aaa6bf">Un clic depuis Chrome. Le grand écran.</text>
+<text x="68" y="350" font-size="17" fill="#aaa6bf">Le contrôle depuis votre Mac.</text>
+</g>
+<!-- Mac browser -->
+<g transform="translate(654 144)"><rect width="228" height="160" rx="14" fill="#11101d" stroke="#61517f" stroke-width="2"/><rect x="1" y="1" width="226" height="29" rx="12" fill="#29253a"/><circle cx="17" cy="15" r="4" fill="#8e6acc"/><circle cx="32" cy="15" r="4" fill="#77609e"/><circle cx="47" cy="15" r="4" fill="#5a4c73"/><rect x="18" y="48" width="192" height="94" rx="7" fill="url(#glass)"/><path d="M97 72L97 119L135 96Z" fill="url(#violet)"/><rect x="33" y="153" width="160" height="3" rx="1.5" fill="#383249"/></g>
+<!-- directional arrows -->
+<g fill="none" stroke="url(#violet)" stroke-width="4" stroke-linecap="round"><path d="M898 224H942"/><path d="M933 215L943 224L933 233"/></g>
+<!-- TV -->
+<g transform="translate(968 114)"><ellipse cx="95" cy="197" rx="101" ry="18" fill="#7040de" opacity=".5" filter="url(#glow)"/><path d="M87 29L69 7M100 29L119 7" fill="none" stroke="url(#violet)" stroke-width="9" stroke-linecap="round"/><circle cx="69" cy="7" r="6" fill="#bd8aff"/><circle cx="119" cy="7" r="6" fill="#bd8aff"/><rect x="0" y="28" width="190" height="151" rx="30" fill="#1a1132" stroke="url(#violet)" stroke-width="10"/><rect x="16" y="44" width="158" height="119" rx="19" fill="#1b1731"/><path d="M79 69L79 137L132 103Z" fill="url(#violet)"/><path d="M38 183V195M153 183V195" stroke="#8e61ed" stroke-width="12" stroke-linecap="round"/></g>
+<rect x=".7" y=".7" width="1198.6" height="428.6" rx="25" fill="none" stroke="#74549c" stroke-opacity=".4"/>
+</svg>
