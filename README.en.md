@@ -110,7 +110,6 @@ Finding videos on a Mac is convenient. Watching them on a big screen is better. 
 If you find it useful and would like to support its development, you can buy me a coffee. Every contribution helps improve the project and keep it freely available.
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/louix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="217" height="60" align="middle"></a>&nbsp;&nbsp;
   <a href="https://www.buymeacoffee.com/louix" target="_blank"><img src="assets/buy-me-a-coffee-qr.png" alt="Scan the QR code to support NoYouPub on Buy Me a Coffee" width="128" height="128" align="middle"></a>
 </p>
 
