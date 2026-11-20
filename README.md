@@ -76,7 +76,7 @@ L'extension Chrome apporte une expérience « un clic » directement dans YouTub
 
 **Trouver une vidéo → cliquer sur NoYouPub → regarder sur la TV → contrôler depuis le Mac**
 
-*Une démonstration vidéo réelle sera ajoutée ici après validation de la bêta sur télévision.*
+*La bêta précédente a été testée sur une LG webOS UP7750PTB.*
 
 </div>
 
@@ -84,20 +84,20 @@ L'extension Chrome apporte une expérience « un clic » directement dans YouTub
 
 | | État de la bêta |
 |---|---|
-| **Mac** | Apple Silicon (`arm64`) ; build ciblant macOS 13+, tests locaux réalisés sur macOS 14.3 |
+| **Mac** | Apple Silicon (`arm64`) ; build ciblant macOS 14.0, tests locaux réalisés sur macOS 14.3 |
 | **Télévisions** | Détection LG/DLNA et Google Cast développée ; essais historiques principalement sur LG webOS UP7750PTB |
 | **Navigateur** | Chrome, avec extension locale (installation à documenter selon la release) |
 | **Lecture** | Modes Rapide et Compatible ; qualité selon les pistes disponibles |
 | **Réseau** | Mac et TV sur le même réseau ; Mac éveillé pendant la lecture |
 
 > [!NOTE]
-> Le DMG V3 a passé les tests automatisés et le diagnostic de son moteur autonome. **La lecture de cette V3 sur TV physique et l'installation depuis un Mac vierge restent à confirmer.** Certaines vidéos protégées ou restreintes peuvent échouer. Les performances et les commandes dépendent du récepteur.
+> Le DMG V3 a passé les tests automatisés et le diagnostic de son moteur autonome. **La lecture sur la LG a été validée. L’installation depuis un Mac vierge reste à confirmer.** Certaines vidéos protégées ou restreintes peuvent échouer. Les performances et les commandes dépendent du récepteur.
 
-## 🧩 Pour les développeurs
+## 📦 État de la publication
 
-Le dépôt regroupe l'application macOS, la passerelle locale, l'extension Chrome et les scripts de build. Consultez la documentation technique du dépôt pour compiler et contribuer.
+Le dépôt contient la présentation et le guide de la bêta. La publication du code et du DMG reste en attente de la validation des droits de redistribution.
 
-Le fonctionnement repose sur un moteur local : **pas besoin d'un serveur cloud pour relayer la lecture**.
+[Guide d’installation FR/EN](docs/BETA-INSTALLATION.md)
 
 ## 💜 Pourquoi NoYouPub ?
 
